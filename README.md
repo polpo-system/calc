@@ -28,4 +28,5 @@ math). `test/CalcTest.Mod` shows the log of the desktop on the standard output, 
 of the desktop package.
 
 Install with portia: `portia.Install calc` (the console commands), `portia.Install
-calc-desktop` (the desktop commands and Calc.Tool). The license is the one of ETH Oberon: `LICENSE`.
+calc-desktop` (the desktop commands and Calc.Tool). The license is GPL-3 (`LICENSE`); the code comes from ETH Oberon, whose license (`LICENSE.ETH`)
+asks to keep its copyright notice and conditions, which `LICENSE.ETH` does.
